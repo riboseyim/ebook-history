@@ -1,3 +1,7 @@
 # Summary
 
-* [Books of the Year 2016](chapter/books/2016.md)
+* [黄仁宇系列：《万历十五年》](chapter/黄仁宇系列/万历十五年.md)
+* [黄仁宇系列：《放宽历史的视界》](chapter/黄仁宇系列/放宽历史的视界.md)
+* [史景迁系列：《太平天国》](chapter/史景迁系列/太平天国.md)
+* [庆丰野史](chapter/史景迁系列/太平天国.md)
+* [历史心理学（杂记）](chapter/历史心理学/Index.md)

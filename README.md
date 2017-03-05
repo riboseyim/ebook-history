@@ -11,11 +11,11 @@
 
 ### 特色章节
 
-* [Books of the Year 2016](chapter/books/2016.md)
 * [黄仁宇系列：《万历十五年》](chapter/黄仁宇系列/万历十五年.md)
-* [黄仁宇系列：《万历十五年》](chapter/黄仁宇系列/万历十五年.md)
+* [黄仁宇系列：《放宽历史的视界》](chapter/黄仁宇系列/放宽历史的视界.md)
 * [史景迁系列：《太平天国》](chapter/史景迁系列/太平天国.md)
 * [庆丰野史](chapter/史景迁系列/太平天国.md)
+* [历史心理学（杂记）](chapter/历史心理学/Index.md)
 
 ## Community
 
@@ -23,8 +23,6 @@
 
 **小密圈：**
 ![小密圈_qcode](http://o8m8ngokc.bkt.clouddn.com/riboseyim_id_quanzi_rui_small.png)
-
-
 
 ### VERSION 1.0.1-201702
 
